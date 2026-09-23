@@ -11,20 +11,6 @@ Porque verificara os componentes individualmente (**unidade**) e também as inte
 
 # 2. 
 
-##### 1. Achar bugs cedo
-
-Você encontra o erro logo na fase de desenvolvimento, o que é muito mais barato e fácil de consertar do que quando já está na mão do usuário.
-
-##### 2. Rede de proteção contra regressões
-
-Garante que, se você mexer no código hoje para fazer uma melhoria, não vai quebrar algo que já estava funcionando antes.
-
-##### 3. Documentação viva
-
-O teste serve como um manual. Se você quer saber o que uma classe faz, é só olhar os testes dela para ver como ela deve se comportar.
-
-
-Os três principais benefícios são:
 
 1. **Encontrar bugs cedo:** O erro é encontrado ainda na fase de desenvolvimento, quando é mais barato e fácil de corrigir.
 2. **Proteção contra regressões:** Garante que uma alteração no código não quebre algo que já estava funcionando.
